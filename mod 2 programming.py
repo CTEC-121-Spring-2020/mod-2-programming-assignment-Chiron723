@@ -52,9 +52,9 @@ def main():
 
     #6. Demonstrate integer arithmetic
     #output the quotient of five divided by two.
-    print(int(5//2))
+    print(int(5/2))
     #output the remainder of five divided by two.
-    print(float(5/2))
+    print(float(5%2))
     print()
     
     #7. Demonstrate definite loops
